@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "judul": "Kelas Online 1",
+        "gambar": "https://raw.githubusercontent.com/owieepstopik/apikowieepstopik/main/assets/1.png",
+        "action": 1
+    },
+    {
+        "id": 2,
+        "judul": "Kelas Online 2",
+        "gambar": "https://raw.githubusercontent.com/owieepstopik/apikowieepstopik/main/assets/2.png",
+        "action": 1
+    },
+    {
+        "id": 3,
+        "judul": "Kelas Online 3",
+        "gambar": "https://raw.githubusercontent.com/owieepstopik/apikowieepstopik/main/assets/3.png",
+        "action": 1
+    },
+    {
+        "id": 4,
+        "judul": "Kelas Online 4",
+        "gambar": "https://raw.githubusercontent.com/owieepstopik/apikowieepstopik/main/assets/4.png",
+        "action": 1
+    },
+    {
+        "id": 5,
+        "judul": "Kelas Online 5",
+        "gambar": "https://raw.githubusercontent.com/owieepstopik/apikowieepstopik/main/assets/5.png",
+        "action": 0
+    }
+]
