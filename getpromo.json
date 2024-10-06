@@ -28,5 +28,11 @@
         "judul": "Kelas Online 5",
         "gambar": "https://raw.githubusercontent.com/owieepstopik/apipromosi/main/assets/5.png",
         "action": 0
+    },
+      {
+        "id": 6,
+        "judul": "Kelas Online 6",
+        "gambar": "https://raw.githubusercontent.com/owieepstopik/apipromosi/main/assets/6.png",
+        "action": 1
     }
 ]
