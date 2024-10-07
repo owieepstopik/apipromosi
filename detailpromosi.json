@@ -31,13 +31,13 @@
   },
     {
     "id": 6,
-    "judul": "Kelas Online 6",
+    "judul": "Live Tiktok",
     "gambar": "https://raw.githubusercontent.com/owieepstopik/apipromosi/main/assets/kelas6.png",
     "action": 0
   },
     {
     "id": 7,
-    "judul": "Kelas Online 7",
+    "judul": "Info Update APK",
     "gambar": "https://raw.githubusercontent.com/owieepstopik/apipromosi/main/assets/kelas7.png",
     "action": 1
   }
